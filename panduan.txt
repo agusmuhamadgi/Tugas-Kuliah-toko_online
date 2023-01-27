@@ -1,0 +1,10 @@
+================================
+LOGIN ADMIN
+email : agus.ibad@student.uty.ac.id
+pass : 1234
+================================
+USER
+email : gaostulibad@gmail.com
+pass : 1234
+
+NB : untuk akun user/member bisa membuat sendiri di halaman login nya!
